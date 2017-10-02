@@ -30,5 +30,6 @@ public class AddressBook {
 		AddressBook addressBook = new AddressBook();
 		addressBook.addBuddy("Rachel", "123street", "123456789");
 		addressBook.removeBuddy("Rachel");
+		String s = "hi";
 	}
 }
