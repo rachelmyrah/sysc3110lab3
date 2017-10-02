@@ -1,6 +1,7 @@
 
 public class BuddyInfo {
 	
+	//buddy info variables
 	private String name;
 	private String address;
 	private String phoneNumber;
